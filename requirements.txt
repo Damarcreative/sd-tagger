@@ -1,3 +1,6 @@
 deepdanbooru
-tensorflow-io
 huggingface_hub
+tensorflow
+tensorflow-io
+numpy
+Pillow
